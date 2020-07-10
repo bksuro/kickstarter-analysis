@@ -8,19 +8,19 @@ Could I get a Crowd Funding Campaign kick started for my play Fever for a budget
 ## Findings:
 Crowd Funding Campaigns are successful when the budget goal is under $2,000.
 
-###Shown by:
+### Shown by:
 ![](Box_and_chart_plot.png)
 
-###Also depend on launch date:
+### Also depend on launch date:
 ![](Outcomes_Based_on_Launch_Date.png)
 
-###Overall outcomes based on all categories are shown below
+### Overall outcomes based on all categories are shown below
 ![](Parent%20Category%20Outcomes.png)
 
-###Outcomes based on category theatre are as follows
+### Outcomes based on category theatre are as follows
 ![](Theatre_Statistics.png)
 
-###Outcomes based on sub-category plays are as follows
+### Outcomes based on sub-category plays are as follows
 ![](Plays_Statistics.png)
 ---
 
