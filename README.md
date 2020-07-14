@@ -1,27 +1,27 @@
-# An Analysis of Kickstarter Campaigns.
-Performing analysis on kickstarter data for nth time...
+# Kickstarting with Excel
 
+## Overview of Project
 
-## Question at hand:
-Could I get a Crowd Funding Campaign kick started for my play Fever for a budget of $12,000.
+### Purpose
 
-## Findings:
-Crowd Funding Campaigns are successful when the budget goal is under $2,000.
+## Analysis and Challenges
 
-### Shown by:
-![](Box_and_chart_plot.png)
+### Analysis of Outcomes Based on Launch Date
 
-### Also depend on launch date:
-![](Outcomes_Based_on_Launch_Date.png)
+### Analysis of Outcomes Based on Goals
 
-### Overall outcomes based on all categories are shown below
-![](Parent%20Category%20Outcomes.png)
+### Challenges and Difficulties Encountered
 
-### Outcomes based on category theatre are as follows
-![](Theatre_Statistics.png)
+## Results
 
-### Outcomes based on sub-category plays are as follows
-![](Plays_Statistics.png)
+- What are two conclusions you can draw about the Outcomes based on Launch Date?
+
+- What can you conclude about the Outcomes based on Goals?
+
+- What are some limitations of this dataset?
+
+- What are some other possible tables and/or graphs that we could create?
+
 ---
 
 ---
