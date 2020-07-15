@@ -20,7 +20,7 @@ Following conclusions can be inferred from looking at the 'Outcomes vs Launch' c
 ### Analysis of Outcomes Based on Goals
 ![](./resources/Outcomes_vs_Goals.png)
 
-- Campaigns with goals between $1000 and $5000 had high success rate.
+- Campaigns with goal amounts under $5000 were highly successful in achieving their goal amounts.
 
 ### Challenges and Difficulties Encountered
 
@@ -29,7 +29,7 @@ While using excel to analyze the data there could be few challenges like scalabi
 ## Results
 
 - Conclusions drawn from the Outcomes based on Launch Date
-  - More campaigns were successful, when launched between Mar and Aug months.
+  - More campaigns were successful, when launched between Apr and Aug months.
   - Campaigns launched in Dec month were less successful.
 
 - Conclusion from the Outcomes based on Goals
@@ -38,7 +38,7 @@ While using excel to analyze the data there could be few challenges like scalabi
 - Following limitations were observed while analyzing the dataset
   - Story or theme of the plays were not considered to determine their successes and failures.
   - Duration of the plays were not considered for success or failure outcomes.
-  - There is no information regarding the person or persons backing the play and its coreraltion with the success or failure outcomes.
+  - There is no information regarding the person or persons backing the play and its correlation with the success or failure outcomes.
     
 - Some other possible tables and/or graphs that could be created are as follows 
   - Pie charts could be created to show the success rate with respect to launch date.
