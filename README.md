@@ -1,9 +1,9 @@
 # Kickstarting with Excel
 
 ## Overview of Project
-Louise wanted to launch a crowd funding campaign and wanted us to analyze the collected kickstarter data, and report our findings. Based on the findings, she wanted to start the crowd funding campaign with a reachable goal and the correct time to start the campaign. Once that was achieved she wanted to know how different campaigns fared in relation to their launch date and their funding goals. 
+Louise launched a crowd funding campaign based on analysis done on the collected kickstarter data. She launched the crowd funding campaign with a reachable goal and picked an appropriate date for the start of the campaign. Her funding goal was achieved, and now she wants to know how different campaigns fared in relation to, their launch date, and their funding goals. 
 
-The analysis and visualizations are shown below.
+Following analysis and visualizations below explain how other theatre 'plays' campaigns fared in relation to, their launch date, and funding goals.
 
 ### Purpose
 The main purpose of this analysis is to show Louise how different campaigns fared in relation to their launch date and their funding goals.
@@ -14,7 +14,7 @@ The main purpose of this analysis is to show Louise how different campaigns fare
 ![](./resources/Theater_Outcomes_vs_Launch.png)
 
 Following conclusions can be inferred from looking at the 'Outcomes vs Launch' chart:
-- More campaigns were successful, when launched between Mar and Aug months.
+- More campaigns were successful, when launched between Apr and Aug months.
 - Campaigns launched in Dec month were less successful.
 
 ### Analysis of Outcomes Based on Goals
@@ -28,21 +28,21 @@ While using excel to analyze the data there could be few challenges like scalabi
 
 ## Results
 
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
+- Conclusions drawn from the Outcomes based on Launch Date
   - More campaigns were successful, when launched between Mar and Aug months.
   - Campaigns launched in Dec month were less successful.
 
-- What can you conclude about the Outcomes based on Goals?
-  - Campaigns with goals between $1000 and $5000 had high success rate.
+- Conclusion from the Outcomes based on Goals
+  - Campaigns with goal amounts under $5000 were highly successful in achieving their goal amounts.
   
-- What are some limitations of this dataset?
-  - This dataset that was analyzed does not consider the data points below.
-    - Story or content of the plays.
-    - Duration of the plays.
+- Following limitations were observed while analyzing the dataset
+  - Story or theme of the plays were not considered to determine their successes and failures.
+  - Duration of the plays were not considered for success or failure outcomes.
+  - There is no information regarding the person or persons backing the play and its coreraltion with the success or failure outcomes.
     
-- What are some other possible tables and/or graphs that we could create?
-  - A pie chart could be created to show the success rate with respect to launch date.
-  - A box and cross chart could be created to show how the campaigns fared with resepect to their goal amounts.
+- Some other possible tables and/or graphs that could be created are as follows 
+  - Pie charts could be created to show the success rate with respect to launch date.
+  - Box and Cross chart could be created to show how the campaigns fared with resepect to their goal amounts.
 
 ---
 
