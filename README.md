@@ -7,7 +7,7 @@ Following analysis and visualizations below explain how other theatre 'plays' ca
 
 ### Purpose
 The main purpose of this analysis is to show Louise how different campaigns fared in relation to their launch date and their funding goals.
-
+ 
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
