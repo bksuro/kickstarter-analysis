@@ -23,7 +23,7 @@ Following conclusions can be inferred from looking at the 'Outcomes vs Launch' c
 
 
 ### Analysis of Outcomes Based on Goals
-Dividing goals to 8 groups starting at 'less than $1000', and going up to 'greater than 50000', with $5000 increments showed us that most of the successful campaigns that reached their goal amounts, had goal amounts under $5000.
+Dividing goals to 8 groups starting at 'less than 1000', and going up to 'greater than 50000', with 5000 increments showed us that most of the successful campaigns that reached their goal amounts, had goal amounts under 5000.
 ![](./resources/Outcomes_vs_Goals_data.png)
 
 ![](./resources/Outcomes_vs_Goals.png)
