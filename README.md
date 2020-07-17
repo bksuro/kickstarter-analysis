@@ -13,6 +13,7 @@ The main purpose of this analysis is to show Louise how different campaigns fare
 
 ### Analysis of Outcomes Based on Launch Date
 Our analysis of crowd funding campaigns related to theatre showed us that there is higher success rate for starting campaigns during summer months, May to July, and also more campaigns were launched during these months. During winter months, Nov, Dec, and Jan, less campaigns were launched and their success rate was lower, as shown below.
+
 ![](./resources/Theatre_outcomes_raw_data.PNG)
 
 ![](./resources/Theater_Outcomes_vs_Launch.png)
